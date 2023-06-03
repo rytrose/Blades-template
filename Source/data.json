@@ -599,7 +599,7 @@
       "ability": [
         "sharpshooter",
         "focused",
-        "ghost_hunter",
+        "remnant_hunter",
         "scout",
         "survivor",
         "tough_as_nails",
@@ -634,7 +634,7 @@
           "numboxes": "2"
         },
         {
-          "name": "playbook_item_electroplasmic_ammunition",
+          "name": "playbook_item_plex-corruptive_ammunition",
           "numboxes": "1"
         },
         {
@@ -642,7 +642,7 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_spyglass",
+          "name": "playbook_item_monocular",
           "numboxes": "1"
         },
         {
