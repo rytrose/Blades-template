@@ -331,8 +331,6 @@ const crewAttributes = [
     "hunting_grounds_description",
     "cohort1_edges",
     "cohort1_flaws",
-    "heritage",
-    "background",
     "vice_purveyor",
   ],
   autogenSections = [
