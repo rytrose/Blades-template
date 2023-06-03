@@ -785,7 +785,7 @@ textarea.sheet-smallcaps {
 	label {
 		flex-wrap: wrap;
 	}
-	input[type=text], .sheet-auto-expand {
+	input[type=text], textarea, .sheet-auto-expand {
 		width: 100%;
 		border-bottom: 1px solid black;
 		font-size: 14px;
@@ -2483,6 +2483,7 @@ label.sheet-generatebutton {
 		left: 0;
 		resize: none;
 		height: 100%;
+		border: none;
 		word-wrap: break-word;
 		padding: inherit;
 		font: inherit;
