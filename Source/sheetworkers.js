@@ -44,11 +44,6 @@ Object.keys(data.factions).forEach((x) => {
     faction.name = getTranslation(faction.name);
   });
 });
-data.alchemicals.forEach((v, k) => {
-  data.alchemicals[k] = {
-    name: getTranslation(v),
-  };
-});
 Object.keys(data.playbook).forEach((playbook) => {
   const base = data.playbook[playbook].base;
   Object.keys(base).forEach((attr) => {
@@ -321,7 +316,6 @@ const crewAttributes = [
     "repeating_factionclock:name",
     "repeating_cohort:edges",
     "repeating_cohort:flaws",
-    "repeating_alchemical:name",
     "xp_condition",
     "xp_condition_extra",
     "xp_condition2",
@@ -433,8 +427,6 @@ on("change:crew_type change:playbook", (event) => {
           true
         );
         fillBaseData(data.playbook[sourceName].base, playbookAttributes);
-        if (sourceName === "leech")
-          fillRepeatingSectionFromData("alchemical", data.alchemicals);
       }
     }
   );

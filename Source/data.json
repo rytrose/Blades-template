@@ -517,10 +517,10 @@
       "ability": [
         "battleborn",
         "bodyguard",
-        "ghost_fighter",
         "leader",
         "mule",
         "not_to_be_trifled_with",
+        "remnant_fighter",
         "savage",
         "vigorous",
         "veteran"
@@ -554,7 +554,7 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_manacles_&_chain",
+          "name": "playbook_item_shock_restraint",
           "numboxes": "0"
         },
         {
@@ -562,7 +562,7 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -646,7 +646,7 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -681,60 +681,6 @@
         "xp_condition3": "playbook_hull_xp_condition3"
       },
       "playbookitem": []
-    },
-    "leech": {
-      "ability": [
-        "alchemist",
-        "analyst",
-        "artificer",
-        "fortitude",
-        "ghost_ward",
-        "physicker",
-        "saboteur",
-        "venomous",
-        "veteran"
-      ],
-      "base": {
-        "friends_title": "playbook_leech_friends_title",
-        "gatherinfo1": "gatherinfo_what_do_they_intend",
-        "gatherinfo2": "gatherinfo_how_can_I_get_them",
-        "gatherinfo3": "gatherinfo_are_they_telling",
-        "gatherinfo4": "gatherinfo_what_can_I_tinker",
-        "gatherinfo5": "gatherinfo_what_might_happen",
-        "gatherinfo6": "gatherinfo_how_can_I_find",
-        "playbook_description": "playbook_leech_description",
-        "tinker": "2",
-        "wreck": "1",
-        "xp_condition": "playbook_leech_xp_condition"
-      },
-      "playbookitem": [
-        {
-          "bold": "1",
-          "name": "playbook_item_fine_tinkering_tools",
-          "numboxes": "1"
-        },
-        {
-          "bold": "1",
-          "name": "playbook_item_fine_wrecking_tools",
-          "numboxes": "2"
-        },
-        {
-          "name": "playbook_item_blowgun_&_darts,_syringes",
-          "numboxes": "0"
-        },
-        {
-          "name": "playbook_item_bandolier_of_alchemicals_(3)",
-          "numboxes": "1"
-        },
-        {
-          "name": "playbook_item_bandolier_of_alchemicals_(3)",
-          "numboxes": "1"
-        },
-        {
-          "name": "playbook_item_gadget",
-          "numboxes": "1"
-        }
-      ]
     },
     "lurk": {
       "ability": [
@@ -785,7 +731,7 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -840,7 +786,7 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -894,7 +840,7 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -1000,7 +946,7 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_spiritbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
@@ -1436,21 +1382,6 @@
       "description": "lantern_description",
       "numboxes": "1"
     }
-  ],
-  "alchemicals": [
-    "alcahest",
-    "binding_oil",
-    "drift_oil",
-    "drown_powder",
-    "eyeblind_poison",
-    "fire_oil",
-    "grenade",
-    "quicksilver",
-    "skullfire_poison",
-    "smoke_bomb",
-    "spark_drug",
-    "standstill_poison",
-    "trance_powder"
   ],
   "translatedDefaults": {
     "cohort1_name": "cohort",

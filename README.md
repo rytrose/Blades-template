@@ -84,7 +84,6 @@ This file supplies the database used by the sheet worker scripts. It may look in
 * **items** contains the default items a character starts with.
 * **translatedDefaults** contains the defaults for input fields that should be translated. This is a rather cumbersome way to make sure that you can have an input field whose value you can change, but whose default depends on your chosen translation. Unless you add more translated fields, you do not need to change this.
 * **defaultValues** provides some defaults to reset attributes when you switch playbooks. It should not be necessary to edit this object, though you may do so when you change e.g. action names. Resetting should work either way.
-* **alchemicals** contains the list of alchemicals that a Leech gets automatically.
 * **maxFriendsPerPlaybook** and **maxContactsPerCrew** control the number of friends and contacts each playbook gets.
 * **friendlessPlaybooks** should be self-explanatory.
 * **translatedCrewAttributes** and **translatedPlaybookAttributes** contain those attributes of crews/playbooks that the script should look for translations for.
