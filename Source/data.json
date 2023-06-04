@@ -558,7 +558,7 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_rage_essence_vial",
+          "name": "playbook_item_rage-x_syringe",
           "numboxes": "0"
         },
         {
@@ -689,7 +689,7 @@
         "daredevil",
         "the_devil's_footsteps",
         "expertise",
-        "ghost_veil",
+        "plex_mirage",
         "reflexes",
         "shadow",
         "veteran"
@@ -710,12 +710,12 @@
       "playbookitem": [
         {
           "bold": "1",
-          "name": "playbook_item_fine_lockpicks",
+          "name": "playbook_item_fine_lockpicking_kit",
           "numboxes": "0"
         },
         {
           "bold": "1",
-          "name": "playbook_item_fine_shadow_cloak",
+          "name": "playbook_item_fine_urban_camouflage",
           "numboxes": "1"
         },
         {
@@ -723,11 +723,11 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_silence_potion_vial",
+          "name": "playbook_item_plex_muter",
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_dark-sight_goggles",
+          "name": "playbook_item_night-vision_goggles",
           "numboxes": "1"
         },
         {
