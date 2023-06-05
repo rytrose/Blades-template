@@ -797,8 +797,7 @@
         "calculating",
         "connected",
         "functioning_vice",
-        "ghost_contract",
-        "jail_bird",
+        "plex_contract",
         "mastermind",
         "weaving_the_web",
         "veteran"
@@ -832,7 +831,7 @@
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_vial_of_slumber_essence",
+          "name": "playbook_item_vial_of_chloroform",
           "numboxes": "0"
         },
         {
