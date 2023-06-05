@@ -738,9 +738,9 @@
     },
     "slide": {
       "ability": [
-        "rook's_gambit",
-        "cloak_&_dagger",
-        "ghost_voice",
+        "polymath",
+        "covert_agent",
+        "plex_vocoder",
         "like_looking_into_a_mirror",
         "a_little_something_on_the_side",
         "mesmerism",
@@ -764,7 +764,7 @@
       "playbookitem": [
         {
           "bold": "1",
-          "name": "playbook_item_fine_clothes_&_jewelry",
+          "name": "playbook_item_fine_wardrobe",
           "numboxes": "0"
         },
         {
@@ -778,11 +778,11 @@
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_trance_powder",
+          "name": "playbook_item_trancer",
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_a_cane-sword",
+          "name": "playbook_item_a_hidden-sword",
           "numboxes": "1"
         },
         {
