@@ -567,34 +567,6 @@
         }
       ]
     },
-    "ghost": {
-      "ability": [
-        "ghost_form",
-        "dissipate",
-        "manifest",
-        "poltergeist",
-        "possess",
-        "veteran"
-      ],
-      "base": {
-        "friends_title": "playbook_ghost_friends_title",
-        "gatherinfo1": "gatherinfo_what_do_they_intend",
-        "gatherinfo2": "gatherinfo_how_can_I_get_them",
-        "gatherinfo3": "gatherinfo_what_are_they_really",
-        "gatherinfo4": "gatherinfo_what_should_I_look",
-        "gatherinfo5": "gatherinfo_wheres_the_weakness",
-        "gatherinfo6": "gatherinfo_how_can_I_find",
-        "playbook_description": "playbook_ghost_description",
-        "setting_stress_label": "drain",
-        "setting_trauma_label": "gloom",
-        "setting_traumata_set": "ghost",
-        "setting_vice_type": "ghost",
-        "xp_condition": "playbook_ghost_xp_condition",
-        "xp_condition2": "playbook_ghost_xp_condition2",
-        "xp_condition3": "playbook_ghost_xp_condition3"
-      },
-      "playbookitem": []
-    },
     "hound": {
       "ability": [
         "sharpshooter",
@@ -650,37 +622,6 @@
           "numboxes": "0"
         }
       ]
-    },
-    "hull": {
-      "ability": [
-        "automaton",
-        "overcharge",
-        "compartments",
-        "electroplasmic_projectors",
-        "interface",
-        "secondary_hull",
-        "frame_upgrade"
-      ],
-      "base": {
-        "gatherinfo1": "gatherinfo_what_do_they_intend",
-        "gatherinfo2": "gatherinfo_how_can_I_get_them",
-        "gatherinfo3": "gatherinfo_what_are_they_really",
-        "gatherinfo4": "gatherinfo_what_should_I_look",
-        "gatherinfo5": "gatherinfo_wheres_the_weakness",
-        "gatherinfo6": "gatherinfo_how_can_I_find",
-        "playbook_description": "playbook_hull_description",
-        "setting_load_h": "7",
-        "setting_extra_stress": "1",
-        "setting_show_frame": "1",
-        "setting_stress_label": "drain",
-        "setting_trauma_label": "wear",
-        "setting_traumata_set": "hull",
-        "setting_vice_type": "hull",
-        "xp_condition": "playbook_hull_xp_condition",
-        "xp_condition2": "playbook_hull_xp_condition2",
-        "xp_condition3": "playbook_hull_xp_condition3"
-      },
-      "playbookitem": []
     },
     "lurk": {
       "ability": [
@@ -884,59 +825,6 @@
         },
         {
           "name": "playbook_item_master_cipher",
-          "numboxes": "0"
-        },
-        {
-          "name": "playbook_item_plex_sanitizer",
-          "numboxes": "0"
-        }
-      ]
-    },
-    "vampire": {
-      "ability": [
-        "undead",
-        "terrible_power",
-        "arcane_sight",
-        "a_void_in_the_echo",
-        "dark_talent",
-        "sinister_guile",
-        "veteran"
-      ],
-      "base": {
-        "friends_title": "playbook_vampire_friends_title",
-        "gatherinfo1": "gatherinfo_what_do_they_intend",
-        "gatherinfo2": "gatherinfo_how_can_I_get_them",
-        "gatherinfo3": "gatherinfo_what_are_they_really",
-        "gatherinfo4": "gatherinfo_what_should_I_look",
-        "gatherinfo5": "gatherinfo_wheres_the_weakness",
-        "gatherinfo6": "gatherinfo_how_can_I_find",
-        "playbook_description": "playbook_vampire_description",
-        "setting_extra_stress": "3",
-        "setting_show_strictures": "1",
-        "setting_vice_type": "vampire",
-        "trauma": "4",
-        "xp_condition": "playbook_vampire_xp_condition",
-        "xp_condition2": "playbook_vampire_xp_condition2",
-        "xp_condition3": "playbook_vampire_xp_condition3"
-      },
-      "playbookitem": [
-        {
-          "bold": "1",
-          "name": "playbook_item_fine_clothes_and_accoutrements",
-          "numboxes": "0"
-        },
-        {
-          "bold": "1",
-          "name": "playbook_item_fine_personal_weapon",
-          "numboxes": "1"
-        },
-        {
-          "bold": "1",
-          "name": "playbook_item_fine_shadow_cloak",
-          "numboxes": "1"
-        },
-        {
-          "name": "playbook_item_demonbane_charm",
           "numboxes": "0"
         },
         {
