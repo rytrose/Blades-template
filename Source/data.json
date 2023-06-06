@@ -847,13 +847,12 @@
     "whisper": {
       "ability": [
         "compel",
-        "ghost_mind",
+        "aligned_mind",
         "iron_will",
-        "occultist",
-        "ritual",
-        "strange_methods",
-        "tempest",
-        "warded"
+        "plex_channeler",
+        "algomancer",
+        "energizer",
+        "firewalled"
       ],
       "base": {
         "attune": "2",
@@ -871,28 +870,24 @@
       "playbookitem": [
         {
           "bold": "1",
-          "name": "playbook_item_fine_lightning_hook",
+          "name": "playbook_item_fine_electric_lance",
           "numboxes": "1"
         },
         {
           "bold": "1",
-          "name": "playbook_item_fine_spirit_mask",
+          "name": "playbook_item_fine_plex_goggles",
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_electroplasm_vials",
-          "numboxes": "0"
-        },
-        {
-          "name": "playbook_item_spirit_bottles_(2)",
+          "name": "playbook_item_magnetic_storage_units_(2)",
           "numboxes": "1"
         },
         {
-          "name": "playbook_item_ghost_key",
+          "name": "playbook_item_master_cipher",
           "numboxes": "0"
         },
         {
-          "name": "playbook_item_demonbane_charm",
+          "name": "playbook_item_plex_sanitizer",
           "numboxes": "0"
         }
       ]
