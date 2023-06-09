@@ -10,8 +10,8 @@
         "claim_3_name": "claim_fixer",
         "claim_4_desc": "claim_informants_description",
         "claim_4_name": "claim_informants",
-        "claim_5_desc": "claim_hagfish_farm_description",
-        "claim_5_name": "claim_hagfish_farm",
+        "claim_5_desc": "claim_waste_processing_description",
+        "claim_5_name": "claim_waste_processing",
         "claim_6_desc": "claim_victim_trophies_description",
         "claim_6_name": "claim_victim_trophies",
         "claim_7_name": "claim_turf",
@@ -43,8 +43,8 @@
       },
       "crewability": [
         "deadly",
-        "crow's_veil",
-        "emberdeath",
+        "trojan",
+        "cyberdeath",
         "no_traces",
         "patron",
         "predators",
@@ -58,10 +58,6 @@
         },
         {
           "name": "crew_upgrade_assassin_rigging",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_ironhook_contacts",
           "numboxes": "1"
         },
         {
@@ -305,8 +301,8 @@
         "claim_9_name": "claim_turf",
         "claim_10_desc": "claim_lookouts_description",
         "claim_10_name": "claim_lookouts",
-        "claim_11_desc": "claim_hagfish_farm_description",
-        "claim_11_name": "claim_hagfish_farm",
+        "claim_11_desc": "claim_waste_processing_description",
+        "claim_11_name": "claim_waste_processing",
         "claim_12_desc": "claim_infirmary_description",
         "claim_12_name": "claim_infirmary",
         "claim_13_desc": "claim_covert_drops_description",
