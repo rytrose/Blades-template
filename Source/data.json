@@ -126,10 +126,6 @@
           "numboxes": "1"
         },
         {
-          "name": "crew_upgrade_ironhook_contacts",
-          "numboxes": "1"
-        },
-        {
           "name": "crew_upgrade_elite_rovers",
           "numboxes": "1"
         },
@@ -139,7 +135,7 @@
         }
       ]
     },
-    "cult": {
+    "plexers": {
       "base": {
         "claim_1_desc": "claim_cloister_description",
         "claim_1_name": "claim_cloister",
@@ -171,34 +167,30 @@
         "claim_bridge_12_13": "0",
         "claim_bridge_13_14": "0",
         "cohort1_subtype": "adepts",
-        "crew_description": "crew_cult_description",
-        "crew_xp_condition": "crew_cult_xp_condition",
-        "hunting_grounds_type": "crew_cult_hunting_grounds_type",
-        "hunting_grounds_description": "crew_cult_hunting_grounds_description",
+        "crew_description": "crew_plexers_description",
+        "crew_xp_condition": "crew_plexers_xp_condition",
+        "hunting_grounds_type": "crew_plexers_hunting_grounds_type",
+        "hunting_grounds_description": "crew_plexers_hunting_grounds_description",
         "setting_show_deity": "1",
         "upgrade_22_check_1": "1"
       },
       "crewability": [
         "chosen",
-        "anointed",
-        "bound_in_darkness",
+        "protected",
+        "bound_connection",
         "conviction",
-        "glory_incarnate",
-        "sealed_in_blood",
+        "plex_incarnate",
+        "power_hungry",
         "zealotry",
         "veteran"
       ],
       "upgrade": [
         {
-          "name": "crew_upgrade_ordained",
+          "name": "crew_upgrade_upgraded",
           "numboxes": "3"
         },
         {
-          "name": "crew_upgrade_cult_rigging",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_ritual_sanctum_in_lair",
+          "name": "crew_upgrade_plexers_rigging",
           "numboxes": "1"
         },
         {
