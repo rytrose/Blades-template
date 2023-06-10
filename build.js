@@ -76,7 +76,7 @@ sass.render(
 
 // Build HTML
 const htmlOutput = pug
-  .renderFile("Source/Blades.pug", options)
+  .renderFile("Source/blades.pug", options)
   .trim()
   .replace(/\n+/g, "\n");
 fs.writeFile("blades.html", `${htmlOutput}\n`, printOutput);
