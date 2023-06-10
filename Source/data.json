@@ -246,7 +246,7 @@
         "silver_tongues",
         "accord",
         "the_good_stuff",
-        "ghost_market",
+        "plex_market",
         "high_society",
         "hooked",
         "patron",
@@ -259,10 +259,6 @@
         },
         {
           "name": "crew_upgrade_hawker's_rigging",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_ironhook_contacts",
           "numboxes": "1"
         },
         {
@@ -1149,22 +1145,6 @@
       "soft",
       "unstable",
       "vicious"
-    ],
-    "ghost": [
-      "chaotic",
-      "destructive",
-      "furious",
-      "obsessive",
-      "territorial",
-      "savage"
-    ],
-    "hull": [
-      "clanking",
-      "leaking",
-      "fixated",
-      "smoking",
-      "sparking",
-      "unstable"
     ]
   },
   "items": [
