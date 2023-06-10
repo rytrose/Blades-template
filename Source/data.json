@@ -280,8 +280,8 @@
         "claim_3_name": "claim_loyal_fence",
         "claim_4_desc": "claim_gambling_den_description",
         "claim_4_name": "claim_gambling_den",
-        "claim_5_desc": "claim_tavern_description",
-        "claim_5_name": "claim_tavern",
+        "claim_5_desc": "claim_bar_description",
+        "claim_5_name": "claim_bar",
         "claim_6_desc": "claim_drug_den_description",
         "claim_6_name": "claim_drug_den",
         "claim_7_desc": "claim_informants_description",
@@ -311,7 +311,7 @@
       },
       "crewability": [
         "everyone_steals",
-        "ghost_echoes",
+        "plex_echoes",
         "pack_rats",
         "patron",
         "second_story",
@@ -351,8 +351,8 @@
         "claim_3_name": "claim_luxury_fence",
         "claim_4_desc": "claim_vice_den_description",
         "claim_4_name": "claim_vice_den",
-        "claim_5_desc": "claim_tavern_description",
-        "claim_5_name": "claim_tavern",
+        "claim_5_desc": "claim_bar_description",
+        "claim_5_name": "claim_bar",
         "claim_6_desc": "claim_plex_compatible_description",
         "claim_6_name": "claim_plex_compatible",
         "claim_7_name": "claim_turf",
@@ -415,82 +415,6 @@
         },
         {
           "name": "crew_upgrade_barge",
-          "numboxes": "1"
-        }
-      ]
-    },
-    "vigilantes": {
-      "base": {
-        "claim_1_desc": "claim_fierce_allies_description",
-        "claim_1_name": "claim_fierce_allies",
-        "claim_2_desc": "claim_local_heroes_description",
-        "claim_2_name": "claim_local_heroes",
-        "claim_3_desc": "claim_publicity_description",
-        "claim_3_name": "claim_publicity",
-        "claim_4_desc": "claim_hidden_paths_description",
-        "claim_4_name": "claim_hidden_paths",
-        "claim_5_desc": "claim_catacombs_description",
-        "claim_5_name": "claim_catacombs",
-        "claim_6_desc": "claim_defiant_citizens_description",
-        "claim_6_name": "claim_defiant_citizens",
-        "claim_7_name": "claim_turf",
-        "claim_9_name": "claim_turf",
-        "claim_10_desc": "claim_infirmary_description",
-        "claim_10_name": "claim_infirmary",
-        "claim_11_desc": "claim_above_the_law_description",
-        "claim_11_name": "claim_above_the_law",
-        "claim_12_desc": "claim_bluecoat_confidants_description",
-        "claim_12_name": "claim_bluecoat_confidants",
-        "claim_13_desc": "claim_lookouts_description",
-        "claim_13_name": "claim_lookouts",
-        "claim_14_desc": "claim_the_hookup_description",
-        "claim_14_name": "claim_the_hookup",
-        "claim_15_desc": "claim_doskvol's_most_wanted_description",
-        "claim_15_name": "claim_doskvol's_most_wanted",
-        "claim_bridge_2_3": "0",
-        "claim_bridge_3_4": "0",
-        "claim_bridge_6_11": "0",
-        "claim_bridge_10_15": "0",
-        "claim_bridge_12_13": "0",
-        "claim_bridge_13_14": "0",
-        "cohort1_type": "expert",
-        "crew_description": "crew_vigilantes_description",
-        "crew_xp_condition": "crew_vigilantes_xp_condition",
-        "hunting_grounds_type": "crew_vigilantes_hunting_grounds_type",
-        "hunting_grounds_description": "crew_vigilantes_hunting_grounds_description",
-        "setting_show_origin": "1",
-        "upgrade_22_check_1": "1"
-      },
-      "crewability": [
-        "as_good_as_your_word",
-        "avengers",
-        "thorn_in_your_side",
-        "misdirection",
-        "uncanny_preparation",
-        "moral_compass",
-        "favors",
-        "roots",
-        "veteran"
-      ],
-      "upgrade": [
-        {
-          "name": "crew_upgrade_unbroken",
-          "numboxes": "3"
-        },
-        {
-          "name": "crew_upgrade_vigilantes_attire",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_dedicated_crafters",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_irregulars",
-          "numboxes": "1"
-        },
-        {
-          "name": "crew_upgrade_willing_to_fight",
           "numboxes": "1"
         }
       ]
