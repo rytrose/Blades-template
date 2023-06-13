@@ -375,7 +375,7 @@
         "claim_bridge_13_14": "0",
         "cohort1_description": "vehicle_edges_flaws",
         "cohort1_name": "vehicle",
-        "cohort1_subtype": "boat_carriage_other",
+        "cohort1_subtype": "boat_car_other",
         "cohort1_type": "expert",
         "crew_description": "crew_smugglers_description",
         "crew_xp_condition": "crew_smugglers_xp_condition",
@@ -1127,8 +1127,8 @@
       "numboxes": "2"
     },
     {
-      "name": "arcane_implements",
-      "description": "arcane_implements_description",
+      "name": "plex_gear",
+      "description": "plex_gear_description",
       "numboxes": "1"
     },
     {
@@ -1152,8 +1152,8 @@
       "numboxes": "1"
     },
     {
-      "name": "lantern",
-      "description": "lantern_description",
+      "name": "flashlight",
+      "description": "flashlight_description",
       "numboxes": "1"
     }
   ],
@@ -1169,8 +1169,8 @@
     "friends_title": "friends",
     "setting_stress_label": "stress",
     "setting_trauma_label": "trauma",
-    "upgrade_6_name": "carriage",
-    "upgrade_6_description": "upgrade_carriage_description",
+    "upgrade_6_name": "car",
+    "upgrade_6_description": "upgrade_car_description",
     "upgrade_7_name": "documents",
     "upgrade_7_description": "upgrade_documents_description",
     "upgrade_8_name": "boat",
@@ -1179,8 +1179,8 @@
     "upgrade_9_description": "upgrade_gear_description",
     "upgrade_10_name": "hidden",
     "upgrade_10_description": "upgrade_hidden_description",
-    "upgrade_11_name": "implements",
-    "upgrade_11_description": "upgrade_implements_description",
+    "upgrade_11_name": "tech",
+    "upgrade_11_description": "upgrade_tech_description",
     "upgrade_12_name": "quarters",
     "upgrade_12_description": "upgrade_quarters_description",
     "upgrade_13_name": "supplies",
