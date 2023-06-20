@@ -755,32 +755,32 @@
         "hold": "S"
       },
       {
-        "name": "faction_the_circle_of_flame",
+        "name": "faction_the_hermetic_brotherhood_of_flame",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_the_silver_nails",
+        "name": "faction_the_virulent",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_lord_scurlock",
+        "name": "faction_deep_dark",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_the_crows",
+        "name": "faction_the_valentinos",
         "tier": "II",
         "hold": "W"
       },
       {
-        "name": "faction_the_lampblacks",
+        "name": "faction_the_bozos",
         "tier": "II",
         "hold": "W"
       },
       {
-        "name": "faction_the_red_sashes",
+        "name": "faction_the_brainiacs",
         "tier": "II",
         "hold": "W"
       },
@@ -790,12 +790,12 @@
         "hold": "S"
       },
       {
-        "name": "faction_the_grinders",
+        "name": "faction_the_bruhs",
         "tier": "II",
         "hold": "W"
       },
       {
-        "name": "faction_the_billhooks",
+        "name": "faction_the_meat_packers",
         "tier": "II",
         "hold": "W"
       },
@@ -805,17 +805,17 @@
         "hold": "W"
       },
       {
-        "name": "faction_the_gray_cloaks",
+        "name": "faction_the_graysides",
         "tier": "II",
         "hold": "S"
       },
       {
-        "name": "faction_ulf_ironborn",
+        "name": "faction_steel_jackson",
         "tier": "I",
         "hold": "S"
       },
       {
-        "name": "faction_the_foghounds",
+        "name": "faction_the_borg_hounds",
         "tier": "I",
         "hold": "W"
       },
@@ -827,79 +827,54 @@
     ],
     "factions2": [
       {
-        "name": "faction_imperial_military",
+        "name": "faction_militech",
         "tier": "VI",
         "hold": "S"
       },
       {
-        "name": "faction_city_council",
+        "name": "faction_night_city_council",
         "tier": "V",
         "hold": "S"
       },
       {
-        "name": "faction_ministry_of_preservation",
+        "name": "faction_conag",
         "tier": "V",
         "hold": "S"
       },
       {
-        "name": "faction_leviathan_hunters",
+        "name": "faction_the_containment_unit",
         "tier": "V",
         "hold": "S"
       },
       {
-        "name": "faction_ironhook_prison",
+        "name": "faction_petrochem",
         "tier": "IV",
         "hold": "S"
       },
       {
-        "name": "faction_sparkwrights",
+        "name": "faction_neurpo_wardens",
         "tier": "IV",
         "hold": "S"
       },
       {
-        "name": "faction_spirit_wardens",
-        "tier": "IV",
-        "hold": "S"
-      },
-      {
-        "name": "faction_bluecoats",
+        "name": "faction_ncpd",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_inspectors",
+        "name": "faction_judicial",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_iruvian_consulate",
-        "tier": "III",
-        "hold": "S"
-      },
-      {
-        "name": "faction_skovlan_consulate",
-        "tier": "III",
-        "hold": "W"
-      },
-      {
-        "name": "faction_the_brigade",
+        "name": "faction_ncfd",
         "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_severosi_consulate",
-        "tier": "I",
-        "hold": "S"
-      },
-      {
-        "name": "faction_dagger_isles_consulate",
-        "tier": "I",
         "hold": "S"
       }
     ],
     "factions3": [
       {
-        "name": "faction_the_foundation",
+        "name": "faction_jeremy_jeremy_and_stevens",
         "tier": "IV",
         "hold": "S"
       },
@@ -909,17 +884,12 @@
         "hold": "S"
       },
       {
-        "name": "faction_gondoliers",
+        "name": "faction_burners",
         "tier": "III",
         "hold": "S"
       },
       {
-        "name": "faction_sailors",
-        "tier": "III",
-        "hold": "W"
-      },
-      {
-        "name": "faction_laborers",
+        "name": "faction_weshipu",
         "tier": "III",
         "hold": "W"
       },
@@ -934,17 +904,12 @@
         "hold": "S"
       },
       {
-        "name": "faction_ink_rakes",
+        "name": "faction_network_news_54",
         "tier": "II",
         "hold": "W"
       },
       {
         "name": "faction_rail_jacks",
-        "tier": "II",
-        "hold": "W"
-      },
-      {
-        "name": "faction_servants",
         "tier": "II",
         "hold": "W"
       }
@@ -961,14 +926,9 @@
         "hold": "S"
       },
       {
-        "name": "faction_the_path_of_echoes",
+        "name": "faction_the_pathfinders",
         "tier": "III",
         "hold": "S"
-      },
-      {
-        "name": "faction_the_forgotten_gods",
-        "tier": "III",
-        "hold": "W"
       },
       {
         "name": "faction_the_reconciled",
@@ -976,80 +936,18 @@
         "hold": "S"
       },
       {
-        "name": "faction_skovlander_refugees",
+        "name": "faction_refugees",
         "tier": "III",
         "hold": "W"
       },
       {
-        "name": "faction_the_weeping_lady",
+        "name": "faction_the_lightbringers",
         "tier": "II",
         "hold": "S"
       },
       {
-        "name": "faction_deathlands_scavengers",
+        "name": "faction_scavs",
         "tier": "II",
-        "hold": "W"
-      }
-    ],
-    "factions5": [
-      {
-        "name": "faction_whitecrown",
-        "tier": "V",
-        "hold": "S"
-      },
-      {
-        "name": "faction_brightstone",
-        "tier": "IV",
-        "hold": "S"
-      },
-      {
-        "name": "faction_charterhall",
-        "tier": "IV",
-        "hold": "S"
-      },
-      {
-        "name": "faction_six_towers",
-        "tier": "III",
-        "hold": "W"
-      },
-      {
-        "name": "faction_silkshore",
-        "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_nightmarket",
-        "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_crow's_foot",
-        "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_the_docks",
-        "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_barrowcleft",
-        "tier": "II",
-        "hold": "S"
-      },
-      {
-        "name": "faction_coalridge",
-        "tier": "II",
-        "hold": "W"
-      },
-      {
-        "name": "faction_charhollow",
-        "tier": "I",
-        "hold": "S"
-      },
-      {
-        "name": "faction_dunslough",
-        "tier": "I",
         "hold": "W"
       }
     ]
@@ -1165,7 +1063,6 @@
     "factions2_header": "factions2",
     "factions3_header": "factions3",
     "factions4_header": "factions4",
-    "factions5_header": "factions5",
     "friends_title": "friends",
     "setting_stress_label": "stress",
     "setting_trauma_label": "trauma",
